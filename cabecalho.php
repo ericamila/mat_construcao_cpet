@@ -12,7 +12,7 @@
   </header>
        <main>
            <nav>
-                <a href="index.php" title="Home">Home</a>
+                <a href="index.html" title="Home">Home</a>
                 <a href="sobre.php" title="Sobre">Sobre Nós</a>
                 <a href="produtos.php" title="Produtos">Produtos</a>
                 <a href="contato.php" title="Contato">Contato</a>
