@@ -1,0 +1,131 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: sans-serif, Helvetica, Arial;
+    text-decoration: none;
+}
+
+p, label {
+    font: 1rem 'Fira Sans', sans-serif;
+	padding: 1em;
+	text-align: justify;
+}
+
+input {
+    margin: .4rem;
+}
+
+main{
+    max-width: 1000px;
+    align-content: center;
+}
+
+div{
+    background-color: #F8F8FF;
+    border: 2px solid #999999;
+    width: 305px;
+    float: left;
+    padding: 10px;
+}
+
+header{
+    background-color: #696969;
+    color: #FFFAFA;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid white;
+}
+
+footer{
+    background-color: #696969;
+    color: #FFFAFA;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    width: 100%;
+}
+
+nav{
+    width: 100%;
+    height: 100%;
+}
+
+nav a{
+    background-color: #DCDCDC;
+    padding: 1em;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    width: 16.6%;
+	height: 35px;
+    float: left;
+}
+
+nav a:hover{
+    background-color: #FFFFFF;
+}
+
+li{
+	list-style-type: none;
+}
+
+form {
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 15px;
+    max-width: 600px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: #A52A2A;
+    text-shadow: 1px 1px 1px black;
+}
+
+h3 {
+	margin:20px;
+    color: #000080;
+}
+
+input, textarea {
+    width: 500px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+.enviar {
+    background-color: #A52A2A;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    color: #FFFFFF;
+}
+
+textarea {
+    width: 500px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+}
+
+form label {
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.logo{
+    border:solid 1px;
+    box-shadow: 10px 10px 10px 5px black;
+  }
+  
+.home{
+	width: 97%;
+}
